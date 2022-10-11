@@ -33,4 +33,5 @@ build/
 
 ### VS Code ###
 .vscode/
+###igonre properties file###
 /src/main/resources/application.yml
