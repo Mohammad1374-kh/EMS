@@ -1,5 +1,5 @@
-application.yml
-conf.properties
+
+
 HELP.md
 target/
 !.mvn/wrapper/maven-wrapper.jar
@@ -34,4 +34,5 @@ build/
 ### VS Code ###
 .vscode/
 ###igonre properties file###
-/src/main/resources/application.yml
+conf.properties
+application.properties
